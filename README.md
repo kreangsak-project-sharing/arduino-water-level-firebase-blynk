@@ -78,3 +78,6 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 <img alt="photo1" src="https://i.ibb.co/zSCpRzh/IMG-8791.jpg">
 <img alt="photo1" src="https://i.ibb.co/6FBrkxZ/IMG-8784.jpg">
 
+## Other project
++ Dashbased for monitor by Reacjs: https://github.com/kreangsak-project-sharing/react-dashboard-water-level
++ Arduino monitor water level with NodeMCU ESP8266 + firebase: https://github.com/kreangsak-project-sharing/arduino-water-level-firebase-realtime
