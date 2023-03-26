@@ -68,7 +68,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 
 ## Blynk App Setup
 1. Login to https://blynk.cloud/dashboard/login
-2. Add datastreams value as picture, in mobile app wiil show follow this.
+2. Add datastreams value as picture, in mobile app will show follow this.
 <img alt="arduino database" src="https://i.ibb.co/23YHY38/Screenshot-11.png">
 3. Login Blynk app in mobile, create dashboard interface and add datastreams
 
