@@ -8,7 +8,7 @@ Dashbased for monitor by Reacjs: https://github.com/kreangsak-project-sharing/re
 1. Arduino core for ESP8266 WiFi chip: https://github.com/esp8266/Arduino
 2. Firebase Realtime Database Arduino Library for ESP8266 and RP2040 Pico: https://github.com/mobizt/Firebase-ESP8266
 3. Adafruit_SSD1306: https://github.com/adafruit/Adafruit_SSD1306
-4. Blynk Library: https://docs.blynk.io/en/blynk.edgent-firmware-api/installation/install-blynk-library-in-arduino-ide
+4. Blynk Library: https://docs.blynk.io/en/blynk-library-firmware-api/installation/install-blynk-library-in-arduino-ide
 
 ## Need to change code before use
 ```
