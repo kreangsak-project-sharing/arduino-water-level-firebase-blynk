@@ -32,7 +32,7 @@ int maxDist = 1000; // Tank Height or full water level you need in millimeters
 ```
 
 ## Schematic
-<img alt="Schematicwith" src="https://i.ibb.co/xqggfKV/Schematicwith-Line.png">
+<img alt="Schematicwith" src="https://raw.githubusercontent.com/kreangsak-project-sharing/arduino-water-level-firebase-realtime/main/Screenshots/SchematicwithLine.png">
 
 ## Pin wiring for LED & Relay Pump
 | LED & Relay  | NodeMCU ESP8266 | Remark |
